@@ -1,0 +1,14 @@
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/bin/Debug/net8.0/labb4
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/bin/Debug/net8.0/labb4.deps.json
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/bin/Debug/net8.0/labb4.runtimeconfig.json
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/bin/Debug/net8.0/labb4.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/bin/Debug/net8.0/labb4.pdb
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/obj/Debug/net8.0/labb4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/obj/Debug/net8.0/labb4.AssemblyInfoInputs.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/obj/Debug/net8.0/labb4.AssemblyInfo.cs
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/obj/Debug/net8.0/labb4.csproj.CoreCompileInputs.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/obj/Debug/net8.0/labb4.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/obj/Debug/net8.0/refint/labb4.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/obj/Debug/net8.0/labb4.pdb
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/obj/Debug/net8.0/labb4.genruntimeconfig.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/ownc#/laborationer/labb4/labb4/labb4/obj/Debug/net8.0/ref/labb4.dll
